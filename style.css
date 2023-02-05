@@ -1,0 +1,19 @@
+span.path {
+    font-size: 75%;
+}
+
+pre {
+    margin: 0;
+    border: 5px solid #282a36;
+    border-radius: 5px;
+    white-space: pre-wrap;
+}
+
+dd {
+    display: table-cell;
+}
+
+dt {
+    display: table-cell;
+    padding-right: 5px;
+}
